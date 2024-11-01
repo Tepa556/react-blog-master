@@ -1,0 +1,32 @@
+.post-form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.post-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.post-form input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.post-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.post-form button:hover {
+    background-color: aqua;
+}
